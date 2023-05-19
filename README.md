@@ -14,6 +14,8 @@ In short, Qubey is an experimental, multi-sensorial gesture and audio medium for
 
 ![Qubey-2](https://github.com/tkex/qubey/blob/main/images/qubey-2.jpg)
 
+# Interactive
+
 ![Qubey-3](https://github.com/tkex/qubey/blob/main/images/Qubey-HCI-1.gif)
 
 ![Qubey-4](https://github.com/tkex/qubey/blob/main/images/Qubey-HCI-2.gif)
