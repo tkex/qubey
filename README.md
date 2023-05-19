@@ -14,6 +14,16 @@ In short, Qubey is an experimental, multi-sensorial gesture and audio medium for
 
 ![Qubey-2](https://github.com/tkex/qubey/blob/main/images/qubey-2.jpg)
 
+![Qubey-3](https://github.com/tkex/qubey/blob/main/images/Qubey-HCI-1.gif)
+
+![Qubey-4](https://github.com/tkex/qubey/blob/main/images/Qubey-HCI-2.gif)
+
+![Qubey-5](https://github.com/tkex/qubey/blob/main/images/Qubey-HCI-3.gif)
+
+![Qubey-6](https://github.com/tkex/qubey/blob/main/images/Qubey-HCI-4.gif)
+
+![Qubey-7](https://github.com/tkex/qubey/blob/main/images/Qubey-HCI-5.gif)
+
 # For who is it
 
 Qubey is a tool that was created for fun and out of curiosity in University. After a bit of thinking and tinkering I came to the conclusion it would be very nice to have an input device (human-computer-interaction) that everyone could use despite mental or physical capabilities and eventual limitations. In a way it's in the domain of assistive technology and adaptive technology. 
