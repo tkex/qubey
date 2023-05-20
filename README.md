@@ -35,6 +35,8 @@ A bonus is, that it allows individuals with illnesses and disabilities, disregar
 # Notes
 It's important to point out (since it's a prototype with cheap material costs in mind) 'only' a MAX9814 has been used and setup for registering the volume of sounds instead word pattern recogniztion (like voice commands). If you wish to do so, you can use Unity APIs Windows Speech KeywordRecognizer (https://docs.unity3d.com/ScriptReference/Windows.Speech.KeywordRecognizer.html) and rewrite the code (or better microphone or an Arduiino speech recognition module).
 
+Additionally, it should be noted that the Unity project uploaded here has been stripped down and only the basic functions are provided. Also the audio files have been removed because they were from third party sources and I didn't want to redistribute them without permission. However, you can simply add your own sounds in the sound folder and add the sounds in the scenes in the AudioManager, so it works with sounds (also works without sounds at the moment). But its more than enough to try it out yourself and get a grasp of the implemented architecture. Have fun!
+
 # Components
 
 * Arduino Rev 3
@@ -57,6 +59,7 @@ To build and set up this project, you will need to:
 * Put in (and glue) the components
 * Upload the Arduino sketch to the board
 * Install Unity and import the Qubey project and its assets
+* Optional: Add sounds in the AudioManager inside the scenes (sound files have been removed once the project was uploaded; works without as well though)
 * Enjoy!
 
 Please refer to the detailed instructions in the official manuals of the both sensors how to connect the sensors to the Arduino. If you don't have experience in soldering, be careful and  refer to an adequate ressource (Youtube, friend) as well.
